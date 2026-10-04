@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/entity/Consultation.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/TreatmentControl.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/PharmacistControl.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/DispensingUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/Main/ClinicManagementSystem.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/DoctorUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/ConsultationUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/DoctorControl.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/DispensingControl.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/entity/Doctor.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/PatientUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/PharmacistUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/TreatmentUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/ConsultationControl.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/boundary/MedicineUI.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/PatientControl.java</file>
+            <file>file:/C:/Users/chinw/OneDrive/Desktop/ClinicManagementSystem/src/control/MedicineControl.java</file>
+        </group>
+    </open-files>
+</project-private>
